@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PD2k01
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning at Techno International NewTown
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with developers intending to build software and webpages
 - 📫 How to reach me : email me at pratimdutta2206@gmail.com
 
 <!---
